@@ -1,2 +1,9 @@
 # Credit-Card-Fraud-Detection
-Credit Card Fraud Detection this is our project for CTS
+## Team Members 
+~~~
+    -> BHARATH KUMAR R
+    -> BUJASRI C
+    -> KAVIN V
+    -> RAJESH S
+    -> RAGU G
+~~~
